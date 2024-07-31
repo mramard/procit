@@ -41,3 +41,9 @@
 * [FleetXPS](app-metier/fleetxps.md)
 * [Open](app-metier/open.md)
 * [Solid](app-metier/solid.md)
+
+## ☄️ Développement&#x20;
+
+* [CRM](developpement/crm.md)
+* [Application Mobile](developpement/application-mobile.md)
+* [Itinéraires HAUTIER](developpement/itineraires-hautier.md)
