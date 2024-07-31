@@ -1,6 +1,7 @@
 # Table of contents
 
-* [🖱️ Documentation IT](README.md)
+* [Documentation IT](README.md)
+* [🖱️ Documentation IT](<README (1).md>)
 
 ## 🍉 Office 365
 
@@ -42,7 +43,7 @@
 * [Open](app-metier/open.md)
 * [Solid](app-metier/solid.md)
 
-## ☄️ Développement&#x20;
+## ☄️ Développement
 
 * [CRM](developpement/crm.md)
 * [Application Mobile](developpement/application-mobile.md)
